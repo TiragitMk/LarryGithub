@@ -2,4 +2,5 @@
 
 Esta serie de libros cuenta la historia de un hacker de los que hay pocos.
 
-**Daniel C**, Git lover
+
+**Daniel C**, Git & Larry Plotter Lover.
